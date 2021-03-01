@@ -1,5 +1,5 @@
 # Trip Advisor Hotel Reviews Analysis
-Latest Revision : [Revision 1](https://github.com/haryobagas/Analysis_Trip_Advisor_Hotel_Reviews/blob/main/main_rev1.ipynb)
+Latest Revision : [Revision 2](https://github.com/haryobagas/Analysis_Trip_Advisor_Hotel_Reviews/blob/main/main_rev2.ipynb)
 
 # Dataset Details for Trip Advisor Hotel Reviews
 + Citation :
@@ -12,12 +12,14 @@ Alam, M. H., Ryu, W.-J., Lee, S., 2016. Joint multi-grain topic sentiment: model
 + License : CC BY NC 4.0
 
 # Latest Changelog
+Publication Date : 03/01/2021 `Revision 2`
+
+> + Added Function to Delete Custome Word
+
+# Older Changelog
 Publication Date : 02/22/2021 `Revision 1`
 
 > + Initial Commit
-
-# Older Changelog
-Empty.
 
 # Credit
 + Main Github Page : [https://github.com/haryobagas/](https://github.com/haryobagas/)
