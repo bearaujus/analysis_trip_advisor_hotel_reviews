@@ -14,7 +14,7 @@ Alam, M. H., Ryu, W.-J., Lee, S., 2016. Joint multi-grain topic sentiment: model
 # Latest Changelog
 Publication Date : 03/13/2021 `Revision 3`
 
-> + Code Optimalization
+> + Code Optimization
 > + Implementing Chapters and Subchapters
 > + Implementing [pyecharts](https://github.com/pyecharts) as Main Data Visualization
 
