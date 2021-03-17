@@ -28,7 +28,7 @@ Publication Date : 02/22/2021 `Revision 1`
 > + Initial Commit
 
 # Credit
-+ Main Github Page : [https://github.com/haryobagas/](https://github.com/bearaujus/)
-+ Linkedin : [https://www.linkedin.com/in/haryobagas08/](https://www.linkedin.com/in/bearaujus/)
++ Main Github Page : [https://github.com/bearaujus/](https://github.com/bearaujus/)
++ Linkedin : [https://www.linkedin.com/in/bearaujus/](https://www.linkedin.com/in/bearaujus/)
 
 **Bear Au Jus - ジュースとくま** @2021
