@@ -27,7 +27,7 @@ Publication Date : 03/13/2021 `Revision 3`
 
 Publication Date : 03/01/2021 `Revision 2`
 
-> + Added Function to Delete Custome Word
+> + Added Function to Delete Custom Word
 
 Publication Date : 02/22/2021 `Revision 1`
 
