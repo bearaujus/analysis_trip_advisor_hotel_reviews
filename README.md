@@ -15,8 +15,8 @@ Alam, M. H., Ryu, W.-J., Lee, S., 2016. Joint multi-grain topic sentiment: model
 Publication Date : 05/02/2021 `Revision 4`
 
 > + Added "Result" Chapter
-> + Added Sub Chapters Customer Review Polarity Level
-> + Added Sub Chapters Sentiment Analysis by Polarity Level
+> + Added Sub Chapter Customer Review Polarity Level
+> + Added Sub Chapter Sentiment Analysis by Polarity Level
 
 # Older Changelog
 Publication Date : 03/13/2021 `Revision 3`
