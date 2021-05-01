@@ -12,26 +12,26 @@ Alam, M. H., Ryu, W.-J., Lee, S., 2016. Joint multi-grain topic sentiment: model
 + License : CC BY NC 4.0
 
 # Latest Changelog
-Publication Date : 05/02/2021 `Revision 4`
+`Revision 4` Publication Date : 05/02/2021
 
 > + Added "Result" Chapter
 > + Added Sub Chapter Customer Review Polarity Level
 > + Added Sub Chapter Sentiment Analysis by Polarity Level
 
 # Older Changelog
-Publication Date : 03/13/2021 `Revision 3`
+`Revision 3` Publication Date : 03/13/2021
 
 > + Code Optimization
 > + Implementing Chapters and Subchapters
 > + Implementing [pyecharts](https://github.com/pyecharts) as Main Data Visualization
 
 
-Publication Date : 03/01/2021 `Revision 2`
+`Revision 2` Publication Date : 03/01/2021
 
 > + Added Function to Delete Custom Word
 
 
-Publication Date : 02/22/2021 `Revision 1`
+`Revision 1` Publication Date : 02/22/2021
 
 > + Initial Commit
 
