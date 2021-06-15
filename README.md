@@ -1,5 +1,5 @@
 # Trip Advisor Hotel Reviews Analysis
-Latest Revision : [Revision 4](https://github.com/haryobagas/Analysis_Trip_Advisor_Hotel_Reviews/blob/main/main_rev4.rar)
+Latest Revision : [Revision 5](https://github.com/haryobagas/Analysis_Trip_Advisor_Hotel_Reviews/blob/main/main_rev5.rar)
 
 # Dataset Details for Trip Advisor Hotel Reviews
 + Citation :
@@ -12,26 +12,32 @@ Alam, M. H., Ryu, W.-J., Lee, S., 2016. Joint multi-grain topic sentiment: model
 + License : CC BY NC 4.0
 
 # Latest Changelog
-`Revision 4` Publication Date : 05/02/2021
+Publication Date : 06/15/2021 `Revision 5`
 
-> + Added "Result" Chapter
-> + Added Sub Chapter Customer Review Polarity Level
-> + Added Sub Chapter Sentiment Analysis by Polarity Level
+> + Code Optimization
+> + Implementing Simple Hyper Parameter Tunning
+> + Implementing sklearn.model_selection : GridSearchCV
+> + Added "5.9 Implementing Hyper Parameter Tunning Using GridSearchCV According to Top 2 Model Accuracy" Chapter
+> + Now Model Accuracy Preview Has Been Sorted Acending for Better Visualization
 
 # Older Changelog
-`Revision 3` Publication Date : 03/13/2021
+Publication Date : 05/02/2021 `Revision 4`
+
+> + Added "Result" Chapter
+> + Added Sub Chapters Customer Review Polarity Level
+> + Added Sub Chapters Sentiment Analysis by Polarity Level
+
+Publication Date : 03/13/2021 `Revision 3`
 
 > + Code Optimization
 > + Implementing Chapters and Subchapters
 > + Implementing [pyecharts](https://github.com/pyecharts) as Main Data Visualization
 
-
-`Revision 2` Publication Date : 03/01/2021
+Publication Date : 03/01/2021 `Revision 2`
 
 > + Added Function to Delete Custom Word
 
-
-`Revision 1` Publication Date : 02/22/2021
+Publication Date : 02/22/2021 `Revision 1`
 
 > + Initial Commit
 
